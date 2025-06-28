@@ -1,4 +1,4 @@
 {
-  "kajacode": "suga"
+  "kajacode": "suga",
   "description": "sugade"
 }  
